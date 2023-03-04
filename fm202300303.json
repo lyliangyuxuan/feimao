@@ -671,17 +671,7 @@
         }
     ],
     "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "redirect",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="
-                    ]
-                }
-            ]
-        },
+   
         {
             "name": "live",
             "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
@@ -1223,6 +1213,6 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
-    "warningText": "接口完全免费，切勿付费购买。",
+    "warningText": "富坤衡器，专业衡器",
     "spider": "http://我不是.肥猫.love:63/Jar/panda230303.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"
 }
