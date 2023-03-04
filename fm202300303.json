@@ -670,17 +670,17 @@
             "ext": "http://我不是.肥猫.love:63/token.php"
         }
     ],
-    "lives": [
-   
-        {
-            "name": "live",
-            "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
-            "type": 0,
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36",
-           
-        }
-    ],
+"lives": [
+
+	{
+		"name": "live",
+		"url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
+		"type": 0,
+		"logo": "https://epg.112114.xyz/logo/{name}.png",
+		"ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36",
+
+	}
+],
     "parses": [
         {
             "name": "Json轮询",
