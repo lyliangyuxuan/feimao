@@ -6,25 +6,11 @@
 //壁纸---------------------------------------------------------------------------------------------------------------------------------
   "wallpaper": "http://lengniuge.eu.org/bing.php",
 //直播---------------------------------------------------------------------------------------------------------------------------------
-  "lives": [{
-    "group": "redirect",
-    "channels": [{
-      "name": "live",
-      "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xlbmduaXVnZS9hcGkvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]
-    }]
-  },
+  "lives
   {
     "name": "直播",
     "type": 0,
-    "url": "https://agit.ai/lengniuge/api/raw/branch/master/live.m3u",
-    "epg": "https://epg.112114.xyz/?ch={name}",
-    "logo": "https://epg.112114.xyz/logo/{name}.png",
-    "ua": "Mozilla/5.0(Windows NT 10.0; Win64; x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36"
-  },
-  {
-    "name": "音频",
-    "type": 0,
-    "url": "https://agit.ai/lengniuge/api/raw/branch/master/mkv.m3u",
+    "url": "https://gh-proxy.com/https://github.com/lyliangyuxuan/feimao/blob/main/live/%E5%AD%99%E7%85%9C%E6%98%8A%E7%9B%B4%E6%92%AD.txt",
     "epg": "https://epg.112114.xyz/?ch={name}",
     "logo": "https://epg.112114.xyz/logo/{name}.png",
     "ua": "Mozilla/5.0(Windows NT 10.0; Win64; x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36"
