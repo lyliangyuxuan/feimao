@@ -17,7 +17,7 @@
 
 	"sites": [{
 			"key": "drpy_js_豆瓣",
-			"name": "富坤衡器，专业销售维修电子秤.地磅",
+			"name": "豆瓣┃富坤衡器，专业销售维修电子秤.地磅",
 			"type": 3,
 			"api": "https://agit.ai/lengniuge/js/raw/branch/master/drpy2.min.js",
 			"ext": "https://agit.ai/lengniuge/js/raw/branch/master/drpy.js",
