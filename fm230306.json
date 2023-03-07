@@ -206,6 +206,16 @@
             "filterable": 0,
             "ext": "https://tv.libvio.cc"
         },
+              {
+            "key": "Lanhua",
+            "name": "🐷┃兰花┃影视",
+            "api": "csp_XBPQ",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://gh-proxy.com/https://github.com/lyliangyuxuan/feimao/blob/main/json/兰花影院.json"
+        },
         {
             "key": "Lezhu",
             "name": "🐷┃乐猪┃影视",
