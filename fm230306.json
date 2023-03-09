@@ -56,7 +56,7 @@
             "name": "🅿┃Alis┃网盘",
             "type": 3,
             "api": "http://id.ganggang.live:63/lib/alist.min.js",
-            "ext": "http://我不是.肥猫.love:63/alist.json"
+            "ext": "https://ghproxy.com/https://github.com/lyliangyuxuan/feimao/blob/main/alist.json"
         },
         {
             "key": "csp_Paper",
