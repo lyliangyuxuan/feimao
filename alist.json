@@ -11,15 +11,22 @@
       "server": "https://alist.ys-box.repl.co/",
         "startPage" : "/",
         "showAll" : false,
-        "search" : true
+        "search" : true   
     },      
     {
+        "name": "梁雨轩",
+      "server": "https://alist-4.lyliang.repl.co/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },    
+      {
         "name": "蓝魔",
       "server": "https://alistcn.repl.co",
         "startPage" : "/",
         "showAll" : false,
         "search" : true
-    },    
+    }, 
  
         {
         "name" : "小白",
