@@ -67,7 +67,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar":"https://ghproxy.com/https://github.com/lyliangyuxuan/feimao/blob/main/jar/alipro.jar",
-            "ext": "https://ghproxy.com/https://github.com/lyliangyuxuan/feimao/blob/main/taken.txt"
+            "ext": "http://hz752.love:63/ali/ken.php"
         },
               {
             "key": "csp_search_Upyunso",
@@ -78,7 +78,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/lyliangyuxuan/feimao/blob/main/taken.txt"
+            "ext": "http://hz752.love:63/ali/ken.php"
         },
         {
             "key": "csp_search_Alips",
@@ -90,7 +90,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "jar":"https://ghproxy.com/https://github.com/lyliangyuxuan/feimao/blob/main/jar/alipro.jar",
-            "ext": "https://ghproxy.com/https://github.com/lyliangyuxuan/feimao/blob/main/taken.txt"
+            "ext": "http://hz752.love:63/ali/ken.php"
         },
               {
             "key": "push_agent",
@@ -102,7 +102,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "jar":"https://ghproxy.com/https://github.com/lyliangyuxuan/feimao/blob/main/jar/alipro.jar",
-            "ext": "https://ghproxy.com/https://github.com/lyliangyuxuan/feimao/blob/main/taken.txt"
+            "ext": "http://hz752.love:63/ali/ken.php"
         },
         {
             "key": "csp_Yht",
