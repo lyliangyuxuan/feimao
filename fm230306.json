@@ -471,6 +471,13 @@
             "quickSearch": 1,
             "filterable": 1
         },
+               {
+	"key": "直播转点播",
+	"name": "直播转换",
+	"type": 3,
+	"api": "https://gitea.com/chen154672/tvbox/raw/branch/master/JS/js/直播转点播.js",
+	"ext": "./lives/$$$太阳直播$http://9xi4o.tk/sub/mytv.txt#吾爱直播$http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0#饭太硬直播$http://ftyyy.tk/live.txt"
+},
  
         {
             "key": "csp_search_Yisou",
