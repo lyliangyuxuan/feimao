@@ -479,6 +479,20 @@
 	"api": "https://ghproxy.com/https://github.com/lyliangyuxuan/feimao/blob/main/TV/直播转点播3.js",
 	"ext": "./lives/$$$孙煜昊直播$./live/孙煜昊直播.txt&&&./tupian/1.jpg#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$http://ftyyy.tk/live.txtt&&&./tupian/3.jpg#星辰$http://tvmvip.com/xclive.txt&&&./tupian/4.jpg#蜂蜜$https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json&&&./tupian/5.jpg"
 },
+	    {
+	"key": "直播转点播2",
+	"name": "🐼️┃电视┃直播",
+	"type": 3,
+	"api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
+	"ext": "http://我不是.肥猫.love:63/lives/直播仓.json"
+},
+	    {
+	"key": "直播转点播3",
+	"name": "🐼️┃电视┃直播",
+	"type": 3,
+	"api": "https://ghproxy.com/https://github.com/lyliangyuxuan/feimao/blob/main/js/直播转点播2.js",
+	"ext": "https://ghproxy.com/https://github.com/lyliangyuxuan/feimao/blob/main/json/直播转点播库.json"
+},
  
         {
             "key": "csp_search_Yisou",
